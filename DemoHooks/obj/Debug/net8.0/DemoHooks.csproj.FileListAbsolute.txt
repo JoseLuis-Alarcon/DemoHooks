@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\bin\Debug\net8.0\DemoHooks.exe
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\bin\Debug\net8.0\DemoHooks.deps.json
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\bin\Debug\net8.0\DemoHooks.runtimeconfig.json
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\bin\Debug\net8.0\DemoHooks.dll
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\bin\Debug\net8.0\DemoHooks.pdb
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\obj\Debug\net8.0\DemoHooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\obj\Debug\net8.0\DemoHooks.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\obj\Debug\net8.0\DemoHooks.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\obj\Debug\net8.0\DemoHooks.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\obj\Debug\net8.0\DemoHooks.dll
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\obj\Debug\net8.0\refint\DemoHooks.dll
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\obj\Debug\net8.0\DemoHooks.pdb
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\obj\Debug\net8.0\DemoHooks.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\CICLO IV\Gestión de Cambio de Proyectos\ProyectoHooks\DemoHooks\DemoHooks\obj\Debug\net8.0\ref\DemoHooks.dll
